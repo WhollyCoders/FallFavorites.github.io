@@ -1,0 +1,206 @@
+/*---All Fonts Courtesy of Google Fonts---*/
+/*----All Icons used are from fontawesome.io----*/
+
+
+/*----title page----*/
+
+
+
+body{
+   background: linear-gradient(to right, #ff9966, #ff5e62);
+   font-family: sans-serif;
+   margin: 0;
+}
+
+
+.btn {
+  background-color: #f1c40f;
+  border: #f1c40f;
+  align-content: center;
+}
+
+
+.btn:hover{
+  background-color: #d35400
+}
+
+.btn-primary:active {
+  border-color: #f1c40f;
+}
+
+.jumbotron {
+background-color: inherit;
+text-align: center;
+}
+
+.jumbotron h1 {
+  color: #4E342E;
+  font-family: 'Lobster', helvetica, arial;
+}
+
+/*------Nav Bar-------*/
+.nav-link{
+  text-decoration-style: solid;
+  font-size: 20px;
+}
+
+.nav-link.active{
+  border-radius: 15px;
+  border: none;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+  background-color: #f1c40f;
+}
+
+a.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+  color: white;
+}
+
+.nav-pills .nav-link.active, .show>.nav-pills .nav-link {
+  background-color: #f1c40f;
+  border-radius: 15px;
+  color: white;
+}
+
+.nav-link:hover {
+  background-color: #f1c40f;
+  border-radius: 15px;
+  text-decoration-color: #c0392b;
+  border: none;
+}
+
+a.nav-link:hover{
+  color: white;
+}
+
+.nav.nav-tabs{
+  background-color: black;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+}
+
+a{
+  color: white;
+}
+
+a.nav-link{
+  font-family: 'Lobster', helvetica, arial;
+}
+
+.nav-tabs {
+  border-bottom: 4px solid black;
+}
+
+/*------Image Control-----*/
+.rounded {
+  margin-top: 100px;
+  max-width: 50%;
+  max-height: 100%
+  border: 0;
+}
+
+
+/*------Footer-------*/
+
+footer {
+  background-color: black;
+  border-top: 4px solid black;
+  position: absolute;
+  width: 100%;
+}
+
+div.row.align-items-start {
+  margin-bottom: 20px;
+}
+
+.col-phone {
+  color: #f1c40f;
+  font-size: 20px;
+  font-family: 'Lobster', helvetica, arial;
+  padding-bottom: 10px;
+}
+
+.email{
+  text-align: center;
+  color: #f1c40f;
+  font-family: 'Lobster', helvetica, arial;
+  font-size: 20px;
+}
+
+.Copyright{
+  line-height: 1.3em;
+}
+h6 {
+  padding-top: 10px;
+  font-size: 20px;
+line-height: 1.3em;
+font-family: 'Lobster', helvetica, arial;
+color: #f1c40f;
+}
+i.fa.fa-copyright{
+  color: #f1c40f;
+}
+
+.container-social{
+  text-align: center;
+  padding-right: 20px;
+}
+
+i.fa.fa {
+
+  padding-left: 10px;
+}
+
+i.fa.fa-facebook{
+  font-size: 30px;
+}
+
+i.fa.fa-facebook:hover{
+  color: #3b5998;
+}
+
+i.fa.fa-instagram{
+  font-size: 30px;
+}
+
+i.fa.fa-instagram:hover{
+  color: #fb3958;
+}
+
+i.fa.fa-twitter{
+  font-size: 30px;
+}
+
+i.fa.fa-twitter:hover{
+  color: #0084b4;
+}
+
+i.fa.fa-linkedin{
+  font-size: 30px;
+}
+
+i.fa.fa-linkedin:hover{
+  color: #007bb5;
+}
+
+i.fa.fa-mobile {
+  font-size: 30px;
+  color: #f1c40f;
+}
+
+
+/*-------Body-----*/
+
+p{
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+ul {
+  font-size: 25px;
+}
+
+
+/*----Honerable Mention****/
